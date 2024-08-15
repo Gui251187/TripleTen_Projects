@@ -3,6 +3,8 @@
 - 👋 Hi, I’m @Gui251187 - But you can call me Guilherme
 - https://www.linkedin.com/in/guilherme-lopes-nogueira/
 - guilherme251187@gmail.com
+- Resume: https://drive.google.com/file/d/12QNfW7HA4eIxX_tjZ4lensvZOazwjz-O/view?usp=sharing
+- Cover Letter: 
 
 - I'm currently working in a hotel, but in the meantime doing a boot camp in Business Intelligence and Analytics and aspiring a career change into Data. I have a background in tech sales with 5+ years of experience in startups and big companies.
 
